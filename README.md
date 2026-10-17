@@ -1,5 +1,7 @@
 # Spring Boot Transaction Patterns — Runnable Demo
 
+[![CI](https://github.com/ChanukD/springboot-transaction-patterns/actions/workflows/ci.yml/badge.svg)](https://github.com/ChanukD/springboot-transaction-patterns/actions/workflows/ci.yml)
+
 Each pattern has an endpoint that shows the **problem** and the **fix** side by side.
 No Docker, no database to install: it uses in-memory H2.
 
